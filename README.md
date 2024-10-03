@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi!
+
+🎓 I'm a Senior Computer Science student who is passionate about applying my academic knowledge to real-world challenges in software development.
+
+🧩 I am committed to enhancing system functionality and performance, and I thrive in dynamic environments that foster learning and growth. As I approach graduation, I am eager to connect with professionals and explore opportunities in software development and cybersecurity.
+
+📫 Let’s connect to share insights, collaborate, or discuss potential opportunities in the tech industry! 
 
 <!--
 **Alphiel/alphiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
