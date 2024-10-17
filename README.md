@@ -1,4 +1,4 @@
-## 👋 Hi!
+## 👋 Hi, I'm Alan!
 
 🎓 I'm a Senior Computer Science student who is passionate about applying my academic knowledge to real-world challenges in software development.
 
